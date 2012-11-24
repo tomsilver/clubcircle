@@ -2,6 +2,7 @@
 	<head>
 		<title>Club Circle</title>
 		<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Unica+One' rel='stylesheet' type='text/css'>
 		<link href='css/style.css' rel='stylesheet' type='text/css'/>
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js" type="text/javascript"></script>
 	</head>
@@ -33,13 +34,13 @@
 			</table>
 		</div>
 		<div id="results">
-			<table>
-				<tr style="background-color: #FFCCCC;" >
+			<table style="width: 100%;">
+				<tr style="background-color: #E8E8E8;" >
 					<th style="width: 10%;">Header 1</th>
 					<th style="width: 30%;">Header 2</th>
-					<th style="width: 45%;">Header 3</th>
+					<th style="width: 30%;">Header 3</th>
 					<th style="width: 15%;">Header 4</th>
-					<th style="width: 10%;">Header 5</th>
+					<th style="width: 15%;">Header 5</th>
 				</tr>
 				<tr style="background-color: #fff;">
 					<td>Result 1.1</td>
@@ -48,7 +49,7 @@
 					<td>Result 1.4</td>
 					<td>Result 1.5</td>
 				</tr>
-				<tr style="background-color: #FFFFCC;" >
+				<tr style="background-color: #E8E8E8;" >
 					<td>Result 2.1</td>
 					<td>Result 2.2</td>
 					<td>Result 2.3</td>
@@ -62,7 +63,7 @@
 					<td>Result 3.4</td>
 					<td>Result 3.5</td>
 				</tr>
-				<tr style="background-color: #FFFFCC;">
+				<tr style="background-color: #E8E8E8;">
 					<td>Result 4.1</td>
 					<td>Result 4.2</td>
 					<td>Result 4.3</td>
@@ -75,6 +76,132 @@
 					<td>Result 5.3</td>
 					<td>Result 5.4</td>
 					<td>Result 5.5</td>
+				</tr>
+				<tr style="background-color: #E8E8E8;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr style="background-color: #fff;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+								<tr style="background-color: #E8E8E8;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr style="background-color: #fff;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+								<tr style="background-color: #E8E8E8;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr style="background-color: #fff;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+								<tr style="background-color: #E8E8E8;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr style="background-color: #fff;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+								<tr style="background-color: #E8E8E8;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr style="background-color: #fff;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+								<tr style="background-color: #E8E8E8;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr style="background-color: #fff;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+								<tr style="background-color: #E8E8E8;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr style="background-color: #fff;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+								<tr style="background-color: #E8E8E8;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr style="background-color: #fff;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+								<tr style="background-color: #E8E8E8;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr style="background-color: #fff;">
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
 				</tr>
 			</table>
 		</div>
